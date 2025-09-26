@@ -6,4 +6,4 @@ Bu çalışma sonucunda
 
 
 Linkler : 
-/kaggle/input/analyzing-student-academic-trends
+https://www.kaggle.com/datasets/saadaliyaseen/analyzing-student-academic-trends
