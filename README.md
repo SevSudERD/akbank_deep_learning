@@ -11,10 +11,10 @@ Projeyi geliştirirken adımlarım : verileri çekme , verileri okuma, verilerle
 
 optimizer'ın önemini daha iyi kavradım
 optimizer: modelin ağırlıklarını gerçek sonuç ile tahmin arasındaki hatayı azaltacak şekilde nasıl güncelleyeceğini belirler. Kodumda Adam optimizer'ını seçtim (bu, genellikle daha hızlı ve stabil sonuçlar verir)
+Farklı learning rate'leri deneyerek en iyi sonucu aradım.
 
-Farklı learning rate'leri deneyerek en iyi sonucu aradın.
+Linkler
 
-Linkler : 
 kütüphane : https://www.kaggle.com/datasets/saadaliyaseen/analyzing-student-academic-trends 
 github: https://github.com/SevSudERD/akbank_deep_learning.git
 kaggle: https://www.kaggle.com/code/evvalerdoan/notebook1299f230ea
