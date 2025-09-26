@@ -15,6 +15,10 @@ Farklı learning rate'leri deneyerek en iyi sonucu aradım.
 
 Linkler
 
-kütüphane : https://www.kaggle.com/datasets/saadaliyaseen/analyzing-student-academic-trends 
-github: https://github.com/SevSudERD/akbank_deep_learning.git
-kaggle: https://www.kaggle.com/code/evvalerdoan/notebook1299f230ea
+kaggle, https://www.kaggle.com/code/evvalerdoan/notebook1299f230ea 
+
+kütüphane, https://www.kaggle.com/datasets/saadaliyaseen/analyzing-student-academic-trends 
+
+github, https://github.com/SevSudERD/akbank_deep_learning.git
+
+
