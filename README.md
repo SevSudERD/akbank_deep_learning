@@ -6,4 +6,4 @@ Bu çalışma sonucunda
 
 
 Linkler : 
-https://kaggle/input/analyzing-student-academic-trends
+/kaggle/input/analyzing-student-academic-trends
