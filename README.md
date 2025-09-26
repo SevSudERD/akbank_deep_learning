@@ -15,4 +15,6 @@ optimizer: modelin ağırlıklarını gerçek sonuç ile tahmin arasındaki hata
 Farklı learning rate'leri deneyerek en iyi sonucu aradın.
 
 Linkler : 
-https://www.kaggle.com/datasets/saadaliyaseen/analyzing-student-academic-trends
+kütüphane : https://www.kaggle.com/datasets/saadaliyaseen/analyzing-student-academic-trends 
+github: https://github.com/SevSudERD/akbank_deep_learning.git
+kaggle: https://www.kaggle.com/code/evvalerdoan/notebook1299f230ea
